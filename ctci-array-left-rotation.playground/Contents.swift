@@ -15,7 +15,7 @@ import Foundation;
     1 <= d <= n
     1 <= a <= 10^6
  */
-
+  
 func readLineWithDefault(value : String) -> Array<Int> {
 
     var v = ""
