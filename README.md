@@ -4,10 +4,11 @@ Challenges:
 1. Arrays: Left Rotation
     - Array
     - ArrayList
-2. Arrays: Left Rotation
+2. Strings: Making Anagrams
     - String
     - StringBuilder
-
+3. Hash Tables: Ransom Note
+    - Hash Tables
 
 Using: 
 - Xcode (*.playground)
