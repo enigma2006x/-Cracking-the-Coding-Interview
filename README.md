@@ -10,7 +10,7 @@ Challenges:
 3. Hash Tables: Ransom Note
     - Hash Tables
 4. Linked Lists: Detect a Cycle
-    - Linked Lists (Node[data, next], last element in LinkedList [data, null])
+    - Linked Lists
         - Singly-Linked List
             - [data, next] -> [data, next] -> [data, null]
         - Doubly-Linked List
