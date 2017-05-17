@@ -14,7 +14,7 @@ Challenges:
         - Singly-Linked List
             - [data, next] -> [data, next] -> [data, null]
         - Doubly-Linked List
-            - [null, data, next] -> [previous, data, null] -> [previous, data, next] -> [previous, data, null]
+            - [null, data, next] -> [previous, data, next] -> [previous, data, next] -> [previous, data, null]
     - Swift Implementation 
         - https://www.raywenderlich.com/144083/swift-algorithm-club-swift-linked-list-data-structure
 
